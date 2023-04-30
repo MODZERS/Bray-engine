@@ -1,0 +1,13 @@
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\bin\Debug\Bray-Engine2x.exe.config
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\bin\Debug\Bray-Engine2x.exe
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\bin\Debug\Bray-Engine2x.pdb
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\bin\Debug\FastColoredTextBox.dll
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\obj\Debug\Bray-Engine2x.csproj.AssemblyReference.cache
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\obj\Debug\Bray-Engine2x.csproj.SuggestedBindingRedirects.cache
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\obj\Debug\Bray_Engine2x.Form1.resources
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\obj\Debug\Bray_Engine2x.Properties.Resources.resources
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\obj\Debug\Bray-Engine2x.csproj.GenerateResource.cache
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\obj\Debug\Bray-Engine2x.csproj.CoreCompileInputs.cache
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\obj\Debug\Bray-Engine2x.csproj.CopyComplete
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\obj\Debug\Bray-Engine2x.exe
+C:\Users\xvani\Desktop\Bray-Engine2x\Bray-Engine2x\obj\Debug\Bray-Engine2x.pdb
